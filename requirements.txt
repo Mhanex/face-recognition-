@@ -20,6 +20,6 @@ playsound==1.2.2
 psycopg2-binary==2.9.9
 pytz==2020.4
 sqlparse==0.4.1
-typing-extensions==4.8.0
+#typing-extensions==4.8.0
 tzdata==2023.3
 whitenoise==6.6.0
